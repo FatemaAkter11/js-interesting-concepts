@@ -1,10 +1,11 @@
 //constant data type
-/* const studentId = 181;
-const studentName = 'Rashed';
-console.log(studentName);
+/* const a = 181;
+const a = 'Rashed';
+console.log(a);
  */
 
 // let data type
-let studentId = 15;
-let studentName = 'Alam';
-console.log('Student Name :', typeof studentName, ' ', 'Student Id :', typeof studentId);
+let a = 15;
+let b = 'Alam';
+let c = false;
+console.log('A :', typeof a, ' ', 'B :', typeof b, ' ', 'C :', typeof c);
