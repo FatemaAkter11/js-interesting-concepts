@@ -22,7 +22,7 @@ else {
 //const y = { name: 'Ali' };
 const x = [];
 const y = [];
-if (x == y) {
+if (x === y) {
     console.log('Both are same');
 }
 else {
